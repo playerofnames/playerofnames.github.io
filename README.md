@@ -1,2 +1,2 @@
-# playerofnames.github.io
-Мой первый опубликованный сайт
+# Nikita Shvetsov
+My first project
