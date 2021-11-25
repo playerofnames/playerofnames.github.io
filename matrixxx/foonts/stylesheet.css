@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Matrix_vs_Miltown';
+    src: url('Matrix_vs_Miltown.eot');
+    src: url('Matrix_vs_Miltown.eot?#iefix') format('embedded-opentype'),
+        url('Matrix_vs_Miltown.woff2') format('woff2'),
+        url('Matrix_vs_Miltown.woff') format('woff'),
+        url('Matrix_vs_Miltown.ttf') format('truetype'),
+        url('Matrix_vs_Miltown.svg#Matrix_vs_Miltown') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
