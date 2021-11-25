@@ -10,6 +10,6 @@ function alert(message, type) {
 
 if (alertTrigger) {
   alertTrigger.addEventListener('click', function () {
-    alert('Круто ! ведь оно так и есть.😎(Одноразовая кнопка!)', 'success')
+    alert('Круто ! ведь оно так и есть.😎', 'success')
   })
 }
