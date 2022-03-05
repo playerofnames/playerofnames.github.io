@@ -1,0 +1,25 @@
+body {
+	text-align: center;
+	margin: auto;
+}
+.rep {
+	margin-bottom: 15px;
+}
+.ots {
+	padding-left: 40px;
+}
+.block-per {
+	border: 5px solid black;
+	padding: 10px;
+	border-radius: 30px;
+}
+body {
+	background-color: green;
+}
+.back {
+	color: whitesmoke;
+	border: 4px solid darkblue;
+	background-color: black;
+	border-radius: 30px;
+	font-weight: 800;
+}
